@@ -20,7 +20,7 @@
 
         <property name="current_session_context_class">thread</property>
 
-        <!--<mapping class="com.tom.example.Student" />-->
+
         <mapping class="com.tom.example.hibernate.entity.InstructorDetail"/>
         <mapping class="com.tom.example.hibernate.entity.Instructor"/>
     </session-factory>

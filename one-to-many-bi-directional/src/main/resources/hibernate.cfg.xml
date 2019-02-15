@@ -23,6 +23,6 @@
         <!--<mapping class="com.tom.example.Student" />-->
         <mapping class="com.tom.example.hibernate.entity.InstructorDetail"/>
         <mapping class="com.tom.example.hibernate.entity.Instructor"/>
-        <mapping class="com.tom.example.hibernate.entity.Course"/>
+
     </session-factory>
 </hibernate-configuration>
